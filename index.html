@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav>
+        <div class="main-nav container flex">
+            <a href="#" onclick="reload()" class="company-logo">
+                <img src="./assests/image.png" alt="companylogo ">
+            </a>
+            <div class="nav-links">
+                <ul class="flex">
+                    <li class="hover-link nav-item" id="home" onclick="onNavItemClick('home')">Home</li>
+                    <li class="hover-link nav-item" id="ipl" onclick="onNavItemClick('ipl')">IPL</li>
+                    <li class="hover-link nav-item" id="finance" onclick="onNavItemClick('finance')">Finance</li>
+                    <li class="hover-link nav-item" id="sport" onclick="onNavItemClick('sport')">Sport</li>
+                </ul>
+            </div>
+            <div class="search-bar flex">
+                <input id="search-text" type="text" class="news-input" placeholder="e.g. Science" id="search-input">
+                <button id="search-button" class="search-button" onclick="onSearchClick()">Search</button>
+            </div>
+
+        </div>
+    </nav>
+
+
+    <main>
+        <div class="cards-container container flex" id="cards-container">
+
+        </div>
+    </main>
+    <template id="template-news-card">
+        <div class="card">
+            <div class="card-header">
+                <img src="https://via.placeholder.com/400x200" alt="news-image" id="news-img">
+            </div>
+            <div class="card-content">
+                <h3 id="news-title">This is the Title</h3>
+                <h6 class="news-source" id="news-source">End Gadget 26/08.2023</h6>
+                <p class="news-desc" id="news-desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus
+                    unde, esse
+                    alias cum blanditiis voluptate nobis culpa laborum recusandae dignissimos?</p>
+            </div>
+        </div>
+
+    </template>
+    <button id="read-more-button">Read More . . .</button>
+    <div id="no-results-message" style="display: none; margin-left: 370px;font-size: 35px;">No such news 
+    </br> Please Click on Home or search another news
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

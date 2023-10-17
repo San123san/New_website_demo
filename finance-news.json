@@ -1,0 +1,245 @@
+[
+    {
+        "title": "Sample News 1",
+        "description": "This is a sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T12:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 2",
+        "description": "Another sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T13:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 1",
+        "description": "This is a sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T12:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 2",
+        "description": "Another sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T13:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 1",
+        "description": "This is a sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T12:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 2",
+        "description": "Another sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T13:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 1",
+        "description": "This is a sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T12:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 2",
+        "description": "Another sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T13:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 1",
+        "description": "This is a sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T12:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 2",
+        "description": "Another sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T13:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 1",
+        "description": "This is a sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T12:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 2",
+        "description": "Another sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T13:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 1",
+        "description": "This is a sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T12:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 2",
+        "description": "Another sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T13:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 1",
+        "description": "This is a sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T12:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 2",
+        "description": "Another sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T13:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 1",
+        "description": "This is a sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T12:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 2",
+        "description": "Another sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T13:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 1",
+        "description": "This is a sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T12:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 2",
+        "description": "Another sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T13:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 1",
+        "description": "This is a sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T12:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 2",
+        "description": "Another sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T13:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 1",
+        "description": "This is a sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T12:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    },
+    {
+        "title": "Sample News 2",
+        "description": "Another sample news article.",
+        "source": {
+            "name": "Sample Source"
+        },
+        "publishedAt": "2023-10-14T13:00:00Z",
+        "urlToImage": "./image/new3.jpg",
+        "url": "https://zeenews.india.com/"
+    }
+    
+]
+
+  
